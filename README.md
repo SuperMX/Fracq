@@ -23,7 +23,7 @@ Fracq is a hyper-efficient platform designed to bridge the gap between high-inco
     npm run dev
    ```  
 4. **Open in browser**
-Visit http://localhost:3000
+    Visit http://localhost:3000
 
 ---
 
