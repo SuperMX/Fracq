@@ -2,7 +2,28 @@
 
 **Learn in 5 minutes. Earn in 5 hours.**
 
+![Screenshot of Fracq](screenshot.png)
+
 Fracq is a hyper-efficient platform designed to bridge the gap between high-income skills and real-world income. We turn long, boring courses into addictive, 5-minute daily "streaks" and connect learners directly to fractional (part-time) work opportunities worldwide.
+
+**How to run**
+
+## 🚀 How to Run
+
+1. **Install Node.js & npm**  
+   Download and install from [https://nodejs.org/en](https://nodejs.org/en)
+
+2. **Install dependencies**  
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**
+   ```bash
+    npm run dev
+   ```  
+4. **Open in browser**
+Visit http://localhost:3000
 
 ---
 
